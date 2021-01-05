@@ -1,8 +1,8 @@
 # API rest created with Deno.
 
-### Install [Deno](https://deno.land/#installation)
 
 ## Gettint Started
+### First Install [Deno](https://deno.land/#installation)
 
 ```
 deno run --allow-net src/index.ts
